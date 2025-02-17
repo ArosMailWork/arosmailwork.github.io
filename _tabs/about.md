@@ -11,4 +11,6 @@ I love to do stuffs that mixed between tech and graphic which also one of the mo
 
 This blog will have post about some cool tech art that I discovered by myself, sometime maybe have low level programming with game engine too
 
+I’m always open to interesting conversations and collaboration.
+
 making game is pain, but passion, right ?
