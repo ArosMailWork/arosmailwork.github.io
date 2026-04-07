@@ -4,7 +4,7 @@ description: HLSL là cái gì ? có ăn được không ?
 author: aros
 date: 2025-2-15 00:00:00 +0700
 categories: [Tutorial, Shader, Vietnamese]
-tags: [Tutorial, Shader, Vietnamese]
+tags: [tutorial, shader, vietnamese]
 pin: true
 math: true
 mermaid: true
