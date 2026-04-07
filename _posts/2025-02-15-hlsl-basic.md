@@ -1,6 +1,6 @@
 ---
-title: Shader Graph là không đủ ? thử HLSL nhé ?
-description: HLSL là cái gì ? có ăn được không ?
+title: "Shader Graph là không đủ ? thử HLSL nhé ?"
+description: "HLSL là cái gì ? có ăn được không ?"
 author: aros
 date: 2025-02-15 00:00:00 +0700
 categories: [Tutorial, Shader]
@@ -8,6 +8,7 @@ tags: [shader, vietnamese]
 pin: true
 math: true
 mermaid: true
+render_with_liquid: false
 ---
 
 Lời đầu mình muốn nói trong bài blog này là cảm ơn đã bấm vào bài blog giật tít đầu này, mong là nó sẽ giúp ích gì đó cho mọi người.
