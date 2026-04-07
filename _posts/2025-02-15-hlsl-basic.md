@@ -2,7 +2,7 @@
 title: Shader Graph là không đủ ? thử HLSL nhé ?
 description: HLSL là cái gì ? có ăn được không ?
 author: aros
-date: 2025-2-15 00:00:00 +0700
+date: 2025-02-15 00:00:00 +0700
 categories: [Tutorial, Shader]
 tags: [shader, vietnamese]
 pin: true
